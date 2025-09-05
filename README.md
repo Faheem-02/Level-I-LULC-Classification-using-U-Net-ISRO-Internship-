@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-orange)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-blue)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-yellow)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 ![ISRO](https://img.shields.io/badge/Project-ISRO%20Internship-purple)
 
