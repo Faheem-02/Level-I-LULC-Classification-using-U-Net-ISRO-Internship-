@@ -45,16 +45,9 @@ For replication and further research, here are publicly available datasets suita
 - **Link**: [UC Merced Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
 ## 🛠️ Data Preparation
+Suggested Data foramt - .tiff (This format is good at dealing with the satellite data )
 **Organize your data** in the following structure:
 your_dataset/
  images/
- image_001.tif
- image_002.tif
-
  masks/
- mask_001.png
- mask_002.png
 
-
-
-1. **Organize your data** in the following structure:
