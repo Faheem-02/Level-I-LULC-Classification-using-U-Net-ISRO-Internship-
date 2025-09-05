@@ -44,12 +44,6 @@ For replication and further research, here are publicly available datasets suita
 - **Classes**: Agricultural, Airplane, Baseball diamond, Beach, Buildings, Chaparral, Dense residential, Forest, Freeway, Golf course, Harbor, Intersection, Medium residential, Mobile home park, Overpass, Parking lot, River, Runway, Sparse residential, Storage tanks, Tennis courts
 - **Link**: [UC Merced Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
-### 4. Kerala Flood Dataset
-- **Description**: Satellite images from Kerala, India with flood and land cover annotations
-- **Resolution**: Varies, high-resolution
-- **Classes**: Water, Land, Cloud, Shadow, Flooded
-- **Link**: [Kerala Flood Dataset](https://www.kaggle.com/datasets/farzanrahmanian/kerala-flood-aerial-images-dataset)
-
 ## 🛠️ Data Preparation
 **Organize your data** in the following structure:
 your_dataset/
