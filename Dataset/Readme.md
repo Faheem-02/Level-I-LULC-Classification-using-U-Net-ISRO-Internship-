@@ -24,7 +24,7 @@ For replication and further research, here are publicly available datasets suita
 - **Description**: High-resolution aerial imagery with land cover annotations, focused on Poland
 - **Resolution**: 25cm or 50cm per pixel
 - **Classes**: Building, Woodland, Water, Road
-- **Link**: [LandCover.ai Dataset](https://landcover.ai/)
+- **Link**: [LandCover.ai Dataset](https://www.kaggle.com/datasets/adrianboguszewski/landcoverai)
 
 ### 1. EuroSAT
 - **Description**: Sentinel-2 satellite images covering 13 spectral bands and 10 classes
