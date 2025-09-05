@@ -47,14 +47,14 @@ For replication and further research, here are publicly available datasets suita
 ## 🛠️ Data Preparation
 **Organize your data** in the following structure:
 your_dataset/
-├── images/
-│   ├── image_001.tif
-│   ├── image_002.tif
-│   └── ...
-└── masks/
-├── mask_001.png
-├── mask_002.png
-└── ...
-To use alternative datasets with this codebase:
+ images/
+ image_001.tif
+ image_002.tif
+
+ masks/
+ mask_001.png
+ mask_002.png
+
+
 
 1. **Organize your data** in the following structure:
