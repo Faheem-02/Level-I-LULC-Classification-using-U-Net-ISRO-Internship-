@@ -56,12 +56,6 @@ Due to strict security protocols and non-disclosure agreements with ISRO:
 
 This repository contains only the implementation code and architecture details for educational purposes.
 
-### Installation
-Clone the repository:
-```bash
-git clone https://github.com/Faheem-02/Level-I-LULC-Classification-using-U-Net-ISRO-Internship.git
-cd Level-I-LULC-Classification-using-U-Net-ISRO-Internship
-
 ##  Learning Outcomes
 
 Through this internship project at NRSC, ISRO, I gained comprehensive expertise in:
@@ -86,4 +80,9 @@ This project was successfully completed thanks to the guidance and support of:
 - **Indian Space Research Organisation (ISRO)** - For providing this incredible opportunity
 - **NRSC (National Remote Sensing Centre)** - For the resources, data access, and workstations
 
-Special gratitude to my parents for their constant encouragement and support throughout this journey.
+### Installation
+Clone the repository:
+```bash
+git clone https://github.com/Faheem-02/Level-I-LULC-Classification-using-U-Net-ISRO-Internship.git
+cd Level-I-LULC-Classification-using-U-Net-ISRO-Internship
+
