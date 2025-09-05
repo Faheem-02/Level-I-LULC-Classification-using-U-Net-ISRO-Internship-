@@ -8,7 +8,7 @@
 
 A deep learning-based semantic segmentation project for automated Land Use and Land Cover (LULC) classification from high-resolution satellite imagery, developed during my internship at the National Remote Sensing Centre (NRSC), Indian Space Research Organisation (ISRO).
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements a U-Net convolutional neural network for pixel-wise classification of satellite imagery into 7 distinct land cover categories. The model was trained on high-resolution satellite data from Punjab, India, to automate the creation of accurate LULC maps for applications in urban planning, environmental monitoring, and resource management.
 
@@ -19,7 +19,7 @@ This project implements a U-Net convolutional neural network for pixel-wise clas
 - Custom data preprocessing and patchification pipeline
 - Comprehensive model evaluation metrics
 
-## 📋 LULC Classification Categories
+##  LULC Classification Categories
 
 The model classifies each pixel into one of the following categories:
 1. **Built-up Areas** - Human-made structures and urban developments
@@ -30,7 +30,7 @@ The model classifies each pixel into one of the following categories:
 6. **Roads** - Transportation networks and highways
 7. **Others** - Unclassified or ambiguous regions
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Architecture
 The project utilizes a U-Net architecture with:
@@ -61,3 +61,29 @@ Clone the repository:
 ```bash
 git clone https://github.com/Faheem-02/Level-I-LULC-Classification-using-U-Net-ISRO-Internship.git
 cd Level-I-LULC-Classification-using-U-Net-ISRO-Internship
+
+##  Learning Outcomes
+
+Through this internship project at NRSC, ISRO, I gained comprehensive expertise in:
+
+- **Satellite Image Processing**: Working with high-resolution geospatial data from Bhuvan Panchayat platform
+- **Deep Learning Architecture**: Implementing and customizing U-Net for semantic segmentation tasks
+- **Data Preprocessing**: Developing pipelines for large-scale image patchification and normalization
+- **Geospatial Analysis**: Understanding LULC classification challenges and applications
+- **Model Optimization**: Tuning hyperparameters and addressing class imbalance issues
+- **TensorFlow/Keras**: Advanced implementation of complex neural networks
+- **Remote Sensing Applications**: Practical experience in solving real-world environmental monitoring problems
+- **Project Management**: Handling constraints of proprietary data and security protocols
+
+## Acknowledgments
+
+This project was successfully completed thanks to the guidance and support of:
+
+- **Dr. S.S. Raja Shekhar** - Head of Applications and Scientist-SG, NRSC, ISRO
+- **Dr. Jyothi B.** - Project Mentor and Guide, NRSC, ISRO  
+- **Smt. Savitha Sunkari** & **Dr. Jaya Saxena** - Internship Coordinators, NRSC
+- **Balanagar RRSC Team** - For their unwavering support and technical assistance
+- **Indian Space Research Organisation (ISRO)** - For providing this incredible opportunity
+- **NRSC (National Remote Sensing Centre)** - For the resources, data access, and workstations
+
+Special gratitude to my parents for their constant encouragement and support throughout this journey.
