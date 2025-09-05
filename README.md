@@ -1,7 +1,7 @@
 # Level-I Land Use/Land Cover Classification using U-Net
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
+![Python](https://img.shields.io/badge/Python-3.8%2B-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-blue)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 ![ISRO](https://img.shields.io/badge/Project-ISRO%20Internship-purple)
